@@ -36,12 +36,11 @@ node index.js
 The API exposes an endpoint to fetch news articles:
 
 - **GET /news**: Fetches and caches the latest news articles.
-  
-[!]
 
-## License
 > [!caution]
 > The Khabaronline website used as an example in this project has provided its consent for this use. 
+
+## License
 
 Feel free to let me know if you need any more adjustments!
 
