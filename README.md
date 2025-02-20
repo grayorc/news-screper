@@ -43,9 +43,6 @@ The API exposes an endpoint to fetch news articles:
 > [!caution]
 > The Khabaronline website used as an example in this project has provided its consent for this use. 
 
-> **Caution:** 
-> The Khabaronline website used as an example in this project has provided its consent for this use. 
-
 Feel free to let me know if you need any more adjustments!
 
 This project is licensed under the MIT License.
